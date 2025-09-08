@@ -1,0 +1,44 @@
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+
+#LangGraph
+langgraph
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+streamlit
+
+Pydantic
+
+# for chain.get_graph().print_ascii()
+grandalf
+
+pypdf
+
+bs4
+
+sentence-transformers
+
+chromadb
+tiktoken 
+ipywidgets
+
+faiss-cpu    
+wikipedia
+
+youtube-transcript-api  
+pytube
+
+duckduckgo-search
+ddgs
